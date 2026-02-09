@@ -1,4 +1,4 @@
-# The LAR Bible
+# The Lar Bible
 
 A collection of practical principles for junior backend engineers navigating their first year in software development.
 
