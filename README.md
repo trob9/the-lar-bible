@@ -2,6 +2,8 @@
 
 A collection of practical principles for junior backend engineers navigating their first year in software development.
 
+I credit this advice lar-gely to my excellent manager, Lar. 
+
 ---
 
 ## 1. Master each piece of work you submit
